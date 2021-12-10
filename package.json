@@ -20,7 +20,7 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
-        "bulma": "^0.9.1",
+        "bulma": "^0.9.3",
         "datatables-bulma": "^1.0.1",
         "datatables.net": "^1.10.21",
         "datatables.net-buttons": "^1.6.5",
